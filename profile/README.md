@@ -3,10 +3,10 @@
 > **AI-native detection engineering tools for practitioners.**
 > Inspectable scoring. CI-native. BYOLLM. Built in the open.
 
-Open-source CLIs and GitHub Actions that apply modern ML and quantitative
-finance patterns to detection engineering problems. Built by
-[James Bower](https://jamesbower.com) — 25 years in security operations,
-deep background in quant finance and AI/ML.
+Open-source CLIs and GitHub Actions for ML-native detection engineering.
+Built by [James Bower](https://jamesbower.com) — 25 years in security
+operations. The edge: applying quant finance and HFT research patterns
+to ML cybersec problems, in ways most of the industry hasn't considered.
 
 ## The Bet
 
@@ -24,10 +24,11 @@ Detect-Forge solves it for the detection engineer with a CI pipeline.
   is human-gated. In security, false confidence is worse than slow.
 - **BYOLLM.** Opt-in LLM features use your API key — we never pay
   inference for you, and there's no vendor lock-in on model choice.
-- **HFT × ML × Security.** Applying patterns from quantitative
-  finance and modern ML to detection engineering problems. Signal
-  decay detection, embedding drift, multi-signal scoring — quants
-  solved these decades ago.
+- **Quant research as an edge.** HFT and quant finance already
+  solved signal decay, embedding drift, and multi-signal scoring —
+  years before ML cybersec ran into the same problems. Detect-Forge
+  imports those patterns into detection engineering, not the other
+  way around.
 
 ## Tools
 
@@ -57,4 +58,4 @@ Current tools are AI-native. Later tools on the roadmap go agentic:
 
 ---
 
-Built by Bower Enterprises LLC · Detection engineering + HFT × ML × Security
+Built by Bower Enterprises LLC · ML cybersec with a quant finance edge
