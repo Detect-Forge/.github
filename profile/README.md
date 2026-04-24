@@ -51,7 +51,7 @@ Current tools are AI-native. Later tools on the roadmap go agentic:
 
 - 📝 **Blog & articles** → [jamesbower.com](https://jamesbower.com)
 - 📧 **Newsletter** — get the GitHub link 24 hours before each launch
-  → [Subscribe](https://jamesbower.com/#subscribe)
+  → [Subscribe](https://james-bower.kit.com/newsletter?_gl=1*nvfcem*_gcl_au*ODI3MjMwMzUyLjE3NzY2ODk5NDIuMTQ4MzU3NDg4OS4xNzc2Njg5OTQ2LjE3NzY2ODk5NDg.)
 - 🎮 **Discord** — Machine Learning in Security
   → [Join](https://discord.gg/YOUR_REAL_INVITE)
 - 🌐 **SaaS** (coming Q3 2026) → [detectforge.io](https://detectforge.io)
