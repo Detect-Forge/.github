@@ -3,9 +3,9 @@
 > **AI-native detection engineering tools for practitioners.**
 > Inspectable scoring. CI-native. BYOLLM. Built in the open.
 
-Open-source CLIs and GitHub Actions for ML-native detection engineering.
+Open-source CLIs and GitHub Actions for AI-native detection engineering.
 Built by [James Bower](https://jamesbower.com) — 25 years in security
-operations. The edge: applying quant finance and HFT research patterns
+operations. The edge: applying quant and high-frequency research patterns
 to ML cybersec problems, in ways most of the industry hasn't considered.
 
 ## The Bet
@@ -35,7 +35,7 @@ Detect-Forge solves it for the detection engineer with a CI pipeline.
 | Tool | Description | Status |
 | --- | --- | --- |
 | [ttp-staleness](https://github.com/Detect-Forge/ttp-staleness) | AI-native Sigma rule freshness auditor. Three-dimension scoring: timestamp drift (deterministic) + semantic drift (local embeddings) + LLM diff proposals (BYOLLM, opt-in). KQL + EQL in v0.2. | 🔨 Launching May 23, 2026 |
-| [detection-backtest](https://github.com/Detect-Forge/detection-backtest) | HFT-style backtesting for Sigma rules against the Atomic Red Team EVTX corpus. Precision, recall, F1 scoring. Catch noisy rules before they fire in production. | 📅 Launching Jun 28, 2026 |
+| [detection-backtest](https://github.com/Detect-Forge/detection-backtest) | Quant-based backtesting for rules against the Atomic Red Team EVTX corpus. Precision, recall, F1 scoring. Catch noisy rules before they fire in production. | 📅 Launching Jun 28, 2026 |
 
 ## Roadmap
 
