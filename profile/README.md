@@ -34,7 +34,7 @@ Detect-Forge solves it for the detection engineer with a CI pipeline.
 
 | Tool | Description | Status |
 | --- | --- | --- |
-| [ttp-staleness](https://github.com/Detect-Forge/ttp-staleness) | AI-native Sigma rule freshness auditor. Three-dimension scoring: timestamp drift (deterministic) + semantic drift (local embeddings) + LLM diff proposals (BYOLLM, opt-in). KQL + EQL in v0.2. | 🔨 Launching May 23, 2026 |
+| [ttp-staleness](https://github.com/Detect-Forge/ttp-staleness) | AI-native Sigma rule freshness auditor. Three-dimensional scoring: timestamp drift (deterministic) + semantic drift (local embeddings) + LLM diff proposals (BYOLLM, opt-in). KQL + EQL in v0.2. | 🔨 Launching May 23, 2026 |
 | [detection-backtest](https://github.com/Detect-Forge/detection-backtest) | Quant-based backtesting for rules against the Atomic Red Team EVTX corpus. Precision, recall, F1 scoring. Catch noisy rules before they fire in production. | 📅 Launching Jun 28, 2026 |
 
 ## Roadmap
